@@ -18,7 +18,7 @@ btn.addEventListener("click", function() {
         rateUs.classList.add("hide-div");
         thank.classList.remove("hide-div");
     } else if (clicked1 === false || clicked2 === false || clicked3 === false || clicked4 === false || clicked5 === false){
-        alert("You have not given us a rating!");
+        alert("Oga drop rating fess!");
     }
 });
 
